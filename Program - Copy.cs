@@ -32,7 +32,7 @@ namespace ConsoleApp2
 
             Console.WriteLine("Transposematrix");
 
-            _ = T.Transposematrix;
+            T.Transposematrix();
             
             Console.WriteLine("-------------------------");
 
